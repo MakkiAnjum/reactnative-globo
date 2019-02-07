@@ -2,11 +2,6 @@ Download the project.
 
 #### run `npm install`
 
-for iOS
+#### to run, run `npm start`
 
-#### `npm run ios`
-
-for android
-
-#### `npm run android`
 
